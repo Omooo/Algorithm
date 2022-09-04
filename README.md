@@ -88,3 +88,10 @@ Algorithm
 | [和有限的最长子序列](https://github.com/Omooo/Algorithm/blob/main/Weekly%20Compeltition/308/%E5%92%8C%E6%9C%89%E9%99%90%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E5%BA%8F%E5%88%97.md) |
 | [从字符串中移除星号](https://github.com/Omooo/Algorithm/blob/main/Weekly%20Compeltition/308/%E4%BB%8E%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%A7%BB%E9%99%A4%E6%98%9F%E5%8F%B7.md) |
 
+##### 86 场双周赛
+
+| 题目                                                         |
+| ------------------------------------------------------------ |
+| [和相等的子数组](https://github.com/Omooo/Algorithm/blob/main/Weekly%20Compeltition/86/%E5%92%8C%E7%9B%B8%E7%AD%89%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md) |
+| [严格回文的数字](https://github.com/Omooo/Algorithm/blob/main/Weekly%20Compeltition/86/%E4%B8%A5%E6%A0%BC%E5%9B%9E%E6%96%87%E7%9A%84%E6%95%B0%E5%AD%97.md) |
+
