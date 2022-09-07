@@ -94,4 +94,5 @@ Algorithm
 | ------------------------------------------------------------ |
 | [和相等的子数组](https://github.com/Omooo/Algorithm/blob/main/Weekly%20Compeltition/86/%E5%92%8C%E7%9B%B8%E7%AD%89%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md) |
 | [严格回文的数字](https://github.com/Omooo/Algorithm/blob/main/Weekly%20Compeltition/86/%E4%B8%A5%E6%A0%BC%E5%9B%9E%E6%96%87%E7%9A%84%E6%95%B0%E5%AD%97.md) |
+| [把数组排成最小的数](https://github.com/Omooo/Algorithm/blob/main/%E5%89%91%E6%8C%87%20Offer/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0.md) |
 
